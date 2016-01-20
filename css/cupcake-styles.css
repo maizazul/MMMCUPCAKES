@@ -1,5 +1,5 @@
 h1 {
-  color: purple;
+  color: Gold;
   text-align: center;
   font-size: 60px;
 }
@@ -30,8 +30,7 @@ li.best {
     font-style: italic;
     font-weight: bold;
 }
-img.center {
+img {
     display: block;
-    margin-left: auto;
-    margin-right: auto
+    margin: 0 auto;
   }
